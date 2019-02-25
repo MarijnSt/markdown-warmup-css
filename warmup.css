@@ -1,5 +1,9 @@
 body {
 	font-family: sans-serif;
+	background-color: rgba(0, 105, 145, 0.2);
+}
+
+.content {
 	width: 65%;
 	margin: auto;
 }
